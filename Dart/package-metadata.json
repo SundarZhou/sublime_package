@@ -1,0 +1,1 @@
+{"version": "1.5.1", "description": "Dart Package for Sublime Text 3 (releases only)", "url": "https://github.com/guillermooo/dart-sublime-bundle", "platforms": ["*"], "dependencies": [], "sublime_text": ">=3000"}

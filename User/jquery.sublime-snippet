@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>$1</title>
+	<script src="../scripts/jquery-3.2.1.js" type="text/javascript"></script>
+  <style>
+  	*{
+  	margin: 0;
+  	padding: 0;
+  	}
+  </style>
+</head>
+<body>
+
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>js</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.basic</scope>
+</snippet>

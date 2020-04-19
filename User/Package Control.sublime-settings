@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CSS3",
+		"Dart",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"jQuery",
+		"JsFormat",
+		"MarkdownPreview",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublimerge 3",
+		"SyncedSideBar",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"Vuetify"
+	]
+}

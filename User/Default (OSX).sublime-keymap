@@ -1,0 +1,5 @@
+[
+	{ "keys": ["shift+tab"], "command": "reindent" },
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+	 { "keys": ["ctrl+alt+b"], "command": "open_in_browser" },
+]
